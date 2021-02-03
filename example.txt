@@ -1,6 +1,4 @@
-<<<<<<< HEAD
+
 hello
 how are you ?
-=======
->>>>>>> 326a41e290705050de17e032146d91a9527c95f1
 hello users
